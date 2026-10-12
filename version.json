@@ -1,6 +1,6 @@
 {
-  "versionName": "3.11",
-  "versionCode": 32,
+  "versionName": "3.12",
+  "versionCode": 33,
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-lite-updates/main/SmartHomeDisplayLite.apk",
-  "changelog": "إصلاح جذري لإيقاظ الشاشة: الإيقاظ من سياق الواجهة مباشرة بدل الخلفية"
+  "changelog": "إيقاظ الشاشة مباشرة عند وصل الشاحن حتى مع إطفاء الشاشة العادي"
 }
