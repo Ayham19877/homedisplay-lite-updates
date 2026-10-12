@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "3.8",
+  "versionName": "3.9",
+  "versionCode": 30,
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-lite-updates/main/SmartHomeDisplayLite.apk",
-  "notes": "🏢 إعادة تسمية العلامة: شركة شاهين Shaheen Company"
+  "changelog": "إيقاظ الشاشة تلقائياً عند وصل الشاحن بدون لمس (قسم السيارة)"
 }
